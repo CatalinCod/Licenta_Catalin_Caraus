@@ -1,0 +1,44 @@
+body{
+  margin:0;
+  font-family:Arial,Helvetica,sans-serif;
+  background:#222;
+  color:#eee;
+  text-align:center;
+}
+h2{margin:16px 0 8px 0}
+
+#pad button{
+  width:72px;
+  height:72px;
+  margin:4px;
+  font-size:24px;
+  border:none;
+  border-radius:12px;
+  background:#555;
+  color:#fff;
+  cursor:pointer;
+}
+#pad button:hover{background:#777}
+
+#sl{
+  width:220px;
+  margin-top:12px;
+}
+
+#v{
+  width:320px;
+  border:4px solid #444;
+  margin-top:16px;
+}
+
+#btnDesc{
+  margin-top:16px;
+  padding:10px 30px;
+  font-size:18px;
+  border:none;
+  border-radius:10px;
+  background:#008CFF;
+  color:#fff;
+  cursor:pointer;
+}
+#btnDesc:hover{background:#0aa0ff}

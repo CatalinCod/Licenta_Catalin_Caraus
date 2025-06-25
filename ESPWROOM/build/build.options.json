@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "esp32:esp32:esp32doit-devkit-v1",
+  "hardwareFolders": "C:\\Users\\Catalin\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Catalin\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\Users\\Catalin\\Desktop\\Licenta\\ESPWROOM"
+}
